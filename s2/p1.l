@@ -1,3 +1,4 @@
 %%
-"username"	printf("hi");
+"username"	printf("hi");return 0;
+"pagal"
 %%
